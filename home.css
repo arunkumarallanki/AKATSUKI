@@ -1,0 +1,15 @@
+
+img{
+    
+}
+body{
+    background-image: url(./img\ bg.jpeg);
+}
+.text{
+    margin-top: 150px;
+    margin-left: 30px;
+    padding-left: 20px;
+    margin-right: 50px;
+    background:rgb(167, 167, 231);
+    opacity: 1;
+}

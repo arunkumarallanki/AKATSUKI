@@ -1,0 +1,57 @@
+.back{
+  background-color: rgb(250, 250, 250);
+    border: none;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .back:hover {
+    background-color:rgb(113, 162, 230);
+  }
+  
+  .back:active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .a {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .a{
+    margin-right: 10px;
+  }
+  .b{
+    margin-top: 20px;
+    border: solid black;
+    
+  }
+.aba{
+ background-color: rgb(242, 100, 100);
+}
+.container{
+  background-color: rgb(189, 238, 238);
+}
+.dt{
+ width: 200px;
+ display: block;
+ margin: auto;
+}
+.btton{
+  display: block;
+  margin: auto;
+  background-color: green;
+}
+.boook{
+  margin-bottom:20px;
+}
+.di{
+  padding-bottom: 50px;
+}
